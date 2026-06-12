@@ -1,0 +1,2 @@
+[console_scripts]
+mi-unlock-blaster = mi_unlock_blaster.main:main
